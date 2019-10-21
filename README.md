@@ -11,5 +11,11 @@ https://zimbra.org/extend/items/view/news-and-events-sidebar
   
   
 ### Undo Send
-已提交架構修改與繁中，原始版本:  
+已提交架構修改與繁中回官方尚未合併，原始版本:  
 https://zimbra.org/extend/items/view/undo-send-zimlet---delays-email-send-upto-30-seconds  
+  
+  
+    
+### Downloader
+已提交架構修改與繁中回官方尚未合併，原始版本:  
+https://zimbra.org/extend/items/view/downloader
