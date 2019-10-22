@@ -18,3 +18,9 @@ https://zimbra.org/extend/items/view/undo-send-zimlet---delays-email-send-upto-3
 ### Downloader
 已提交架構修改與繁中回官方尚未合併，原始版本:  
 https://zimbra.org/extend/items/view/downloader
+  
+  
+### zimbra-foss-2fa
+已修改繁中版本，請覆蓋過去即可。原始版本：
+https://zimbra.org/extend/items/view/zimbra-foss-two-factor-authentication-powered-by-privacyidea
+https://github.com/Zimbra-Community/zimbra-foss-2fa
