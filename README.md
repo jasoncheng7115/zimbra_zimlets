@@ -21,6 +21,6 @@ https://zimbra.org/extend/items/view/downloader
   
   
 ### zimbra-foss-2fa
-已修改繁中版本，請覆蓋過去即可。原始版本：
-https://zimbra.org/extend/items/view/zimbra-foss-two-factor-authentication-powered-by-privacyidea
-https://github.com/Zimbra-Community/zimbra-foss-2fa
+已修改繁中版本，請覆蓋過去即可。原始版本：  
+https://zimbra.org/extend/items/view/zimbra-foss-two-factor-authentication-powered-by-privacyidea  
+https://github.com/Zimbra-Community/zimbra-foss-2fa  
