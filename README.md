@@ -24,3 +24,9 @@ https://zimbra.org/extend/items/view/downloader
 已修改繁中版本，請覆蓋過去即可。原始版本：  
 https://zimbra.org/extend/items/view/zimbra-foss-two-factor-authentication-powered-by-privacyidea  
 https://github.com/Zimbra-Community/zimbra-foss-2fa  
+  
+  
+### taiwanfontfamily
+Zimbra 編輯器台灣常用可選字體修改，請參閱該目錄下說明：  
+https://github.com/jasoncheng7115/zimbra_zimlets/tree/master/taiwanfontFamily  
+  
