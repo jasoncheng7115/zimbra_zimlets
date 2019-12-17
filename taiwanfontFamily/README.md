@@ -2,7 +2,7 @@
 
 ### 使用說明  
     
-請分別將 client(下列第一行) 與 admin(下列第二行) 下的 `AjxMsg_zh_TW.properties` 檔案丟至下列路徑覆蓋：
+主要包含了台灣較常用的 Winodws 內建字體與常用開源字體。請分別將 client(下列第一行) 與 admin(下列第二行) 下的 `AjxMsg_zh_TW.properties` 檔案丟至下列路徑覆蓋：
 ```
 /opt/zimbra/jetty_base/webapps/zimbra/WEB-INF/classes/messages/AjxMsg_zh_TW.properties
 /opt/zimbra/jetty_base/webapps/zimbraAdmin/WEB-INF/classes/messages/AjxMsg_zh_TW.properties
