@@ -2,7 +2,7 @@
 
 ### 使用說明  
     
-主要修正郵件日期格式中的"月"重複寫示問題，請把 `I18nMsg_zh_TW.properties ` 檔案丟至下列路徑覆蓋：
+主要修正郵件日期格式中的"月"重複寫示問題，請把 `I18nMsg_zh_TW.properties` 檔案丟至下列路徑覆蓋：
 ```
 /opt/zimbra/jetty_base/webapps/zimbra/WEB-INF/classes/messages/I18nMsg_zh_TW.properties 
 ```
